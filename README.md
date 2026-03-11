@@ -87,4 +87,5 @@ xset("color", 1); // reset to black
 ## RESULT :
 A 2nd-order IIR Butterworth low-pass filter was designed with cutoff frequency 1500 Hz and sampling frequency 5000 Hz. The frequency response shows flat passband and sharp attenuation in the stopband.
 
+
 ## RESULT: 
