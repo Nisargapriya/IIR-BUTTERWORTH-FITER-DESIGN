@@ -19,7 +19,7 @@ fc = 1500;           // Hz (changed)
 Wn = 2 * fc / Fs;    // Normalized (0 to 1)
 
 // Butterworth LPF (order 2) — new coefficients
-b = [0.2452  0.4904  0.2452];   // Numerator
+b = [0.2452  0.4904  0.2452];   // Numerator 
 a = [1.0000  -0.8683  0.2569];  // Denominator
 
 // Frequency response (N = 512 points)
